@@ -1,6 +1,6 @@
 ## Hi, I'm Binyam 👋
 
-### Remote Full Stack Develper
+#### Remote Full Stack Develper ready for new opportunities
 <!--
 **bini-i/bini-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
