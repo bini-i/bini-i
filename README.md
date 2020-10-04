@@ -23,3 +23,5 @@ Here are some ideas to get you started:
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=bini-i.298299578)
  
  ![Binyam's github stats](https://github-readme-stats.vercel.app/api?username=bini-i)
+
+<i class="ri-linkedin-box-fill"></i>
