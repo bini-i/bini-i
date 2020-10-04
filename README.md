@@ -1,6 +1,6 @@
 ## Hi, I'm Binyam 👋
 
-#### Remote Full Stack Develper ready for new opportunities
+#### Remote Full Stack Developer ready for new opportunities
 <!--
 **bini-i/bini-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+### You can find me on:
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
