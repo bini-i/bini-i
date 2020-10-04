@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bini-i)]()
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ ![visitors](https://visitor-badge.glitch.me/badge?bini-i=298299578)
  
  ![Binyam's github stats](https://github-readme-stats.vercel.app/api?username=bini-i)
