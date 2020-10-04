@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bini-i)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bini-i)]()
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
- ![Binyam's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+ ![Binyam's github stats](https://github-readme-stats.vercel.app/api?username=bini-i)
