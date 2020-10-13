@@ -1,6 +1,10 @@
-## Hi, I'm Binyam 👋
 
-#### Remote Full Stack Developer ready for new opportunities
+<p align="center"> 
+Hi, I'm <b>Binyam</b> 👋
+<br>
+Remote Full Stack Developer looking for new opportunities.
+</p>
+
 <!--
 **bini-i/bini-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,12 +22,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bini-i)]()
+<p align="center"> 
+🌱 I’m currently working with <br><br>
+<img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
+<img title="CSS" alt="CSS" height=40
+src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
+<img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
+<img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
+<img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
+<img title="JavaScript" alt="JavaScript" height=40
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
+<img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
+<img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
+<img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+</p>
+<p align="center"> 
+    <br>
+    <span> Feel free to contact me on </span><br>
+    <a href="https://www.linkedin.com/in/binyam-hailemeskel-728048151/"><img alt="linkedin logo" height="30" src="img/linkedin.png"/></a>
+    <a href="https://twitter.com/binyamshewa"><img alt="twitter logo" height="30" src="img/twitter.png"/></a>
+    <br>
+</p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=bini-i.298299578)
- 
- ![Binyam's github stats](https://github-readme-stats.vercel.app/api?username=bini-i)
 
-<i class="ri-linkedin-box-fill"></i>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M18.335 18.339H15.67v-4.177c0-.996-.02-2.278-1.39-2.278-1.389 0-1.601 1.084-1.601 2.205v4.25h-2.666V9.75h2.56v1.17h.035c.358-.674 1.228-1.387 2.528-1.387 2.7 0 3.2 1.778 3.2 4.091v4.715zM7.003 8.575a1.546 1.546 0 0 1-1.548-1.549 1.548 1.548 0 1 1 1.547 1.549zm1.336 9.764H5.666V9.75H8.34v8.589zM19.67 3H4.329C3.593 3 3 3.58 3 4.297v15.406C3 20.42 3.594 21 4.328 21h15.338C20.4 21 21 20.42 21 19.703V4.297C21 3.58 20.4 3 19.666 3h.003z"/></svg>
