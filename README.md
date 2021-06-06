@@ -2,7 +2,7 @@
 <p align="center"> 
 Hi, I'm <b>Binyam</b> 👋
 <br>
-Remote Full Stack Developer looking for new opportunities.
+Remote full-stack developer looking for new opportunities.
 </p>
 
 <!--
